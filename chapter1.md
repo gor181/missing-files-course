@@ -11,6 +11,7 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: f4e4c53c5e
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
