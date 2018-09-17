@@ -6,7 +6,7 @@ description: Test
 ## An exercise title written in sentence case
 
 ```yaml
-type: NormalExercise
+type: SingleProcessExercise
 key: 0990c83e08
 lang: python
 xp: 100
